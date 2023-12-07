@@ -13,7 +13,7 @@ lebih baik.
 
 Untuk Hasil Dapat Dilihat disini [click here](https://github.com/royanqodri/Teknikal_Test/blob/main/RumahMakan_App.pdf)
 
-Versi Draw.IO [click here](https://app.diagrams.net/#G1xooFMyCyUFgZKI0iHEbjJyemcDL9kpm2)
+Versi Draw.IO [click here](https://drive.google.com/file/d/1xooFMyCyUFgZKI0iHEbjJyemcDL9kpm2/view?pli=1)
 
 
 # II. SOAL PRAKTEK
