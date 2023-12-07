@@ -1,5 +1,20 @@
+# I. SOAL TEORI
+Rancangkanlah diagram database untuk aplikasi rumah makan.
+Jelaskan teknologi yang akan dipakai untuk aplikasi ini dan mengapa anda memilih teknologi
+tersebut.
+Kebutuhan:
+1. Aplikasi ini bisa memasukkan pesanan-pesanan makanan pelanggan
+2. Aplikasi ini bisa mengeluarkan struk pembelian
+3. Aplikasi ini bisa mengeluarkan laporan penghasilan mingguan dan bulanan
+4. Aplikasi ini bisa mengeluarkan laporan stok
+Selain kebutuhan pokok diatas, silahkan tambahkan ide original anda untuk membuat aplikasi
+lebih baik.
+(catatan: Soal ini tidak membutuhkan pengambil test untuk membuat aplikasi (coding). )
 
-# SOAL PRAKTEK
+Untuk Hasil Dapat Dilihat disini [click here]( )
+
+
+# II. SOAL PRAKTEK
 
 Permainan dadu yang menerima input N jumlah pemain dan M jumlah
 dadu, dengan peraturan sebagai berikut:
@@ -16,6 +31,8 @@ dadu, dengan peraturan sebagai berikut:
    sampai tinggal 1 pemain yang tersisa.
    a. Untuk pemain yang tidak memiliki dadu lagi dianggap telah selesai bermain.
 5. Pemain yang memiliki poin terbanyak lah yang menang.
+
+Untuk Hasil dapat dilihat disini [click here](https://github.com/royanqodri/Teknikal_Test/blob/main/PermainanDadu.go)
 
 
 ## Authors
