@@ -11,7 +11,7 @@ Selain kebutuhan pokok diatas, silahkan tambahkan ide original anda untuk membua
 lebih baik.
 (catatan: Soal ini tidak membutuhkan pengambil test untuk membuat aplikasi (coding). )
 
-Untuk Hasil Dapat Dilihat disini [click here]( )
+Untuk Hasil Dapat Dilihat disini [click here](https://github.com/royanqodri/Teknikal_Test/blob/main/WarungMakan_APP.pdf)
 
 
 # II. SOAL PRAKTEK
